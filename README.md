@@ -2,6 +2,8 @@
 
 Final project for the Building AI course
 
+## Sign language recognition with 99% accuracy
+
 ## Summary
 
 sign language recognition of dataset used from kaggle [here](https://www.kaggle.com/datamunge/sign-language-mnist)
